@@ -10,7 +10,7 @@ able to provide a numerical solution for an infinite integral allows us to perfo
 seconds through the use of a computer.
 
 The Jupyter project "Quantum Uncertainty in the Harmonic Oscillator" provides a break down of the basics about a quantum harmonic 
-oscillator. This includes the The first eigen states, inspection of the energy level for n=5 eigen state, and using expectation values 
+oscillator. This includes the the first few eigen states, inspection of the energy level for n=5 eigen state, and using expectation values 
 to determine the uncertainty in the oscillators position.
 
 https://docs.google.com/presentation/d/1OlHQuWvkDHHKEtSBBN7nne3SFHnimK4Ff0O9WsUPDw4/edit?usp=sharing
